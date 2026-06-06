@@ -94,9 +94,9 @@ AI-assisted journaling system that analyzes:
 
 ## 📫 Connect With Me
 
-- GitHub: `github.com/yourusername`
+- GitHub: `github.com/githiji'
 - Portfolio: `Coming Soon`
-- Email: `your.email@example.com`
+- Email: `smildo041@gmail.com`
 
 ---
 
